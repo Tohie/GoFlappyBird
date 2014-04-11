@@ -1,7 +1,7 @@
 package pipe
 
 import (
-	"github.com/Tohie/FlappyBird/utils"
+	"github.com/Tohie/GoFlappyBird/utils"
 	"github.com/go-gl/gl"
 	"github.com/go-gl/glh"
 	"math/rand"

@@ -1,4 +1,4 @@
 GoFlappyBird
 ============
 
-A simple flappy bird clone in go
+A simple flappy bird clone in go, for the DailyProgrammerChallenge

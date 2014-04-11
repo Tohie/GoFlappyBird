@@ -1,9 +1,9 @@
 package main
 
 import (
-	"github.com/Tohie/FlappyBird/bird"
-	"github.com/Tohie/FlappyBird/pipe"
-	"github.com/Tohie/FlappyBird/utils"
+	"github.com/Tohie/GoFlappyBird/bird"
+	"github.com/Tohie/GoFlappyBird/pipe"
+	"github.com/Tohie/GoFlappyBird/utils"
 	"github.com/banthar/Go-SDL/sdl"
 	"github.com/banthar/Go-SDL/ttf"
 	"github.com/go-gl/gl"
